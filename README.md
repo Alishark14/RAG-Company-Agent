@@ -3,7 +3,7 @@
 An autonomous, agentic RAG system built with **LangGraph**, **Pinecone NVIDIA Inference**, and **Gemini 2.5**.
 
 ## 🏗️ System Architecture
-![Agent Architecture](architecture.png)
+![Agent Architecture](Architecture.png)
 
 ## 🚀 Key Features
 *   **Agentic Logic:** Uses `LangGraph` to dynamically route user queries. The agent intelligently decides when to call the retrieval tool and when to answer directly.
