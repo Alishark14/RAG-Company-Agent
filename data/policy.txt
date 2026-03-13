@@ -1,0 +1,23 @@
+policy_text = """
+COMPANY POLICY HANDBOOK - 2026 EDITION
+
+1. VACATION AND TIME OFF
+Employees are entitled to 25 days of paid time off (PTO) per calendar year. 
+Requests for vacation must be submitted in the HR portal at least 14 days in advance. 
+Unused PTO does not carry over to the next year.
+
+2. EXPENSE REIMBURSEMENT
+For client-related lunches, employees can expense up to $50 per person. 
+All receipts must be submitted via the Concur portal within 14 days of the transaction. 
+Expenses submitted after 30 days will be automatically rejected.
+
+3. CONFIDENTIALITY AND SECURITY
+All company documents, including client lists and proprietary software, are strictly confidential. 
+Employees must not share access credentials with anyone, including other colleagues. 
+Any breach of confidentiality will result in immediate disciplinary action, up to and including termination.
+
+4. WORKPLACE CONDUCT
+Employees are expected to act in a professional manner at all times. 
+Harassment, bullying, or discriminatory behavior in any form is strictly prohibited.
+Our company is an equal opportunity employer committed to a diverse workplace.
+"""
