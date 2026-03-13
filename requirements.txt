@@ -1,0 +1,7 @@
+langchain-google-genai
+langchain-pinecone
+langgraph
+pinecone-client
+langchain-text-splitters
+langchain-core
+langchain
